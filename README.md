@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Android app development
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...st10381731@vcconnect.edu.za
 
 <!---
 ST10381731/ST10381731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
