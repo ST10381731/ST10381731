@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ST10381731
 - 👀 I’m interested in ...Android app development
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Kotlin
 - 📫 How to reach me ...st10381731@vcconnect.edu.za
 
 <!---
